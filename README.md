@@ -22,7 +22,7 @@ An interactive tool to control camera angles and generate consistent character/o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ControlCameraViews.git
+   git clone https://github.com/luanluan-l/ControlCameraViews.git
    cd ControlCameraViews
    ```
 
