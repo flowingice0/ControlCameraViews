@@ -1,0 +1,5 @@
+{
+  "name": "ControlCameraViews",
+  "description": "An interactive tool to control camera angles and generate consistent character views using Gemini 2.5 Flash Image (Nano Banana).",
+  "requestFramePermissions": []
+}
